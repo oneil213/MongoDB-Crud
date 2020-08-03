@@ -1,6 +1,6 @@
 # Node.js Restful CRUD API with Node.js, Express and MongoDB
 
-![Image of HeaderPage]()
+![Image of HeaderPage](https://github.com/oneil213/MongoDB-Crud/blob/366d2f7be997648880230eea8fc12ec124612d8d/git-banner.jpg)
 A simple Node.js Restful CRUD API with Node.js, Express and MongoDB.
 
 ## Getting Started
