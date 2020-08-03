@@ -40,9 +40,8 @@ Open the Config folder and edit the db.config file
 
 ```
 Change 'crudApp' in the code below to the name of the database you created in Mongodb
-```
-
 url: "mongodb://localhost:27017/crudApp",
+```
 
 ```
 
