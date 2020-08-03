@@ -43,13 +43,13 @@ Change 'crudApp' in the code below to the name of the database you created in Mo
 url: "mongodb://localhost:27017/crudApp",
 ```
 
+Open your terminal
+
 ```
 
 cd to the root folder
 
 ```
-
-Open your terminal
 
 ```
 type : npm install
